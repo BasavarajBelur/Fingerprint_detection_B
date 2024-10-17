@@ -8,7 +8,7 @@ Fingerprint scanners work by capturing the pattern of ridges and valleys on a fi
 A computer can compare fingerprints by identifying key features- a bit like drawing lines between them and then measuring the distances and angles between them. Algorithms can turn patterns like this into unique numeric codes. Comparing fingerprints is then simply a matter of comparing unique codes. If the codes match, the prints match, and the person gains access.
 
 # Fingerprint Recognition OpenCV Python
-This resource provides a Python library for fingerprint recognition and includes database connection code
+This resource provides a Python library for fingerprint recognition and includes dataset connection code
 
 # CNN-Model-Detecting-Liveness-of-Fingerprint-using-Deep-Learnig
 This resource uses a convolutional neural network (CNN) and deep learning to detect the liveness of a fingerprint.
