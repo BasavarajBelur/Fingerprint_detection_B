@@ -1,6 +1,8 @@
 import os
 import cv2
 
+#Remove comment in the beginning to check different fingers below of them
+
 sample = cv2.imread("SOCOFing\\Altered\\Altered-Hard\\150__M_Right_index_finger_Obl.BMP")
 #sample = cv2.imread("SOCOFing\\Altered\\Altered-Hard\\50__M_Left_index_finger_Obl.BMP")
 #sample = cv2.imread("SOCOFing\\Altered\\Altered-Hard\\50__M_Left_middle_finger_Obl.BMP")
